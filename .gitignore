@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.venv/
+venv/
+cards.db
+timeguessr_rounds.csv
+timeguessr_anki.csv

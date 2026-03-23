@@ -1,0 +1,535 @@
+{
+  "stats": {
+    "count": 25,
+    "yearMin": 1912,
+    "yearMax": 2025,
+    "decades": 10
+  },
+  "cards": [
+    {
+      "id": 176,
+      "imageId": "7be44de4-d99f-47e0-8983-6c6f58ce2076",
+      "imageUrl": "https://images.timeguessr.com/54e4a033-a7d7-4a54-9def-c2e0cb694231.jpeg",
+      "year": "1912",
+      "yearInt": 1912,
+      "decade": "1910s",
+      "country": "USA",
+      "description": "Women gathered outside of the Ohio woman's suffrage headquarters. Ohio ratified the Nineteenth Amendment in 1919, allowing women to vote.",
+      "license": "Library of Congress, Public domain, via Wikimedia Commons",
+      "location": {
+        "lat": 41.6270968822804,
+        "lng": -81.43025219945751
+      },
+      "lat": 41.6270968822804,
+      "lng": -81.43025219945751,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:13.736165+00:00",
+      "updatedAt": "2026-03-23T05:17:13.736165+00:00"
+    },
+    {
+      "id": 163,
+      "imageId": "755dc3fc-d8eb-4837-ac65-dfdc153d2c49",
+      "imageUrl": "https://images.timeguessr.com/abb8ff26-de41-48be-b728-353fec054225.jpg",
+      "year": "1927",
+      "yearInt": 1927,
+      "decade": "1920s",
+      "country": "Australia",
+      "description": "A view towards Flinders Street Railway Station in Melbourne, Australia. The station was originally built with a giant ballroom on the upper floor, which was in use until the mid 80s.",
+      "license": "Victoria State Transport Authority, restored by Adam Cuerden, Public domain, via Wikimedia Commons",
+      "location": {
+        "lat": -37.81707985618718,
+        "lng": 144.96789279372328
+      },
+      "lat": -37.81707985618718,
+      "lng": 144.96789279372328,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:00.269980+00:00",
+      "updatedAt": "2026-03-23T05:17:00.269980+00:00"
+    },
+    {
+      "id": 160,
+      "imageId": "b4677929-2754-4a08-8dea-cf4c5d259cae",
+      "imageUrl": "https://images.timeguessr.com/00417e25-44a5-4c67-91f6-ab8d3b3af8ec.jpg",
+      "year": "1943",
+      "yearInt": 1943,
+      "decade": "1940s",
+      "country": "USA",
+      "description": "Employees at the Dallas Morning News playing dominoes during break time.",
+      "license": "John Vachon, No copyright restrictions, via Library of Congress",
+      "location": {
+        "lat": 32.77911324187222,
+        "lng": -96.80461742764223
+      },
+      "lat": 32.77911324187222,
+      "lng": -96.80461742764223,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:00.269652+00:00",
+      "updatedAt": "2026-03-23T05:17:00.269652+00:00"
+    },
+    {
+      "id": 173,
+      "imageId": "d9896ca7-f961-4310-a481-1becb5ec4e41",
+      "imageUrl": "https://images.timeguessr.com/dade28d2-bd6f-40c9-8a86-9c84a29b6103.jpg",
+      "year": "1947",
+      "yearInt": 1947,
+      "decade": "1940s",
+      "country": "Netherlands",
+      "description": "Members of the Catholic student association 'Thomas van Aquino' staging a public campaign in Amsterdam to promote the establishment of a sailors\u2019 home in the harbour, urging the city to provide accommodation and support for returning seafarers.",
+      "license": "Ben van Meerendonk / AHF, collectie IISG, CC BY-SA 4.0, via Flickr",
+      "location": {
+        "lat": 52.36523819711992,
+        "lng": 4.892700476886827
+      },
+      "lat": 52.36523819711992,
+      "lng": 4.892700476886827,
+      "streetView": "https://www.google.com/maps/place/52\u00b021'58.0%22N+4\u00b053'34.5%22E/@52.3653513,4.8927603,3a,75y,44.62h,94.87t/data=!3m7!1e1!3m5!1svPNWxHmW22Ors9qd8-Cd_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.873274950715867%26panoid%3DvPNWxHmW22Ors9qd8-Cd_Q%26yaw%3D44.61639670038805!7i16384!8i8192!4m4!3m3!8m2!3d52.366114!4d4.892907?entry=tts&g_ep=EgoyMDI1MTEyMy4xIPu8ASoASAFQAw%3D%3D&skid=38facafb-6459-4517-a047-150dbd2b4669",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:09.419882+00:00",
+      "updatedAt": "2026-03-23T05:17:09.419882+00:00"
+    },
+    {
+      "id": 165,
+      "imageId": "f2bf99ad-fa07-4fca-a488-736e10d447fa",
+      "imageUrl": "https://images.timeguessr.com/06f71dec-36b4-44cd-97c4-5ed74ce565b9.jpg",
+      "year": "1953",
+      "yearInt": 1953,
+      "decade": "1950s",
+      "country": "UK",
+      "description": "Edinburgh Castle towering over a Coca-Cola delivery truck.",
+      "license": "Submitted by Jake Gooding",
+      "location": {
+        "lat": 55.95155086090125,
+        "lng": -3.202962235915119
+      },
+      "lat": 55.95155086090125,
+      "lng": -3.202962235915119,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:04.578836+00:00",
+      "updatedAt": "2026-03-23T05:17:04.578836+00:00"
+    },
+    {
+      "id": 174,
+      "imageId": "1b0fb212-93db-47ff-9f3a-a60f3bd183a5",
+      "imageUrl": "https://images.timeguessr.com/455cfbd2-114d-4fa5-bca5-b42cc0adde7e.jpg",
+      "year": "1958",
+      "yearInt": 1958,
+      "decade": "1950s",
+      "country": "Sweden",
+      "description": "A street scene in Stockholm, Sweden during the late 50s.",
+      "license": "Yngve Hellstr\u00f6m, Public domain, via Wikimedia Commons",
+      "location": {
+        "lat": 59.26239480563306,
+        "lng": 18.083439664740222
+      },
+      "lat": 59.26239480563306,
+      "lng": 18.083439664740222,
+      "streetView": "https://www.google.com/maps/@59.2623751,18.0834736,3a,75y,81.21h,89.85t/data=!3m8!1e1!3m6!1s7avjJ2I9j7TENyfTA_cizg!2e0!5s20170601T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.14975878193187953%26panoid%3D7avjJ2I9j7TENyfTA_cizg%26yaw%3D81.20789571736972!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:13.735817+00:00",
+      "updatedAt": "2026-03-23T05:17:13.735817+00:00"
+    },
+    {
+      "id": 177,
+      "imageId": "b10e66e6-85bd-43ae-a0e7-282ea8ee1385",
+      "imageUrl": "https://images.timeguessr.com/b5a0f197-ebae-4cea-8659-62da399f95cc.jpg",
+      "year": "1958",
+      "yearInt": 1958,
+      "decade": "1950s",
+      "country": "Sweden",
+      "description": "17-year-old Pel\u00e9 on a swedish street during the 1958 world cup. He went on to score 2 goals in the final against Sweden.",
+      "license": "Unknown photographer, Public domain, via Wikimedia Commons",
+      "location": {
+        "lat": 57.7059968112368,
+        "lng": 11.969248563976201
+      },
+      "lat": 57.7059968112368,
+      "lng": 11.969248563976201,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:13.736405+00:00",
+      "updatedAt": "2026-03-23T05:17:13.736405+00:00"
+    },
+    {
+      "id": 161,
+      "imageId": "f6a9ec7d-1780-4b1f-b578-b4df82da3319",
+      "imageUrl": "https://images.timeguessr.com/62a7e860-02ae-4a27-ade3-66d6a0b8b154.jpg",
+      "year": "1959",
+      "yearInt": 1959,
+      "decade": "1950s",
+      "country": "Canada",
+      "description": "Queen Elizabeth II and Prince Philip standing on an open Cadillac on a Royal Visit to attend the Queen's Plate, an annual thoroughbred horse race.",
+      "license": "Associated Press / Alamy Stock Photo",
+      "location": {
+        "lat": 43.65046183367575,
+        "lng": -79.38110665005193
+      },
+      "lat": 43.65046183367575,
+      "lng": -79.38110665005193,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:00.269846+00:00",
+      "updatedAt": "2026-03-23T05:17:00.269846+00:00"
+    },
+    {
+      "id": 169,
+      "imageId": "2e523123-f831-4b3c-9e6f-cf958865799d",
+      "imageUrl": "https://images.timeguessr.com/a0e058ce-41e1-4a0c-82ad-a9b0a499d75b.jpg",
+      "year": "1962",
+      "yearInt": 1962,
+      "decade": "1960s",
+      "country": "Switzerland",
+      "description": "Traffic on the Gotthardpass during the early 60s, a tortuous mountain pass in the Alps connecting northern and southern Switzerland.",
+      "license": "Jack Metzger, CC BY-SA 4.0, via ETH Library Zurich",
+      "location": {
+        "lat": 46.54327092727331,
+        "lng": 8.571344508061262
+      },
+      "lat": 46.54327092727331,
+      "lng": 8.571344508061262,
+      "streetView": "https://www.google.com/maps/@46.5439493,8.5698528,3a,75y,131.34h,73.25t/data=!3m7!1e1!3m5!1sUtdfTBTlR-uWJ_QWScw1mg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D16.75%26panoid%3DUtdfTBTlR-uWJ_QWScw1mg%26yaw%3D131.34!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:09.415461+00:00",
+      "updatedAt": "2026-03-23T05:17:09.415461+00:00"
+    },
+    {
+      "id": 172,
+      "imageId": "c7f10ba5-f0ce-464d-95cd-dabdf5788d32",
+      "imageUrl": "https://images.timeguessr.com/a394c3c2-d575-4623-b834-cfe1c0b6482a.jpg",
+      "year": "1962",
+      "yearInt": 1962,
+      "decade": "1960s",
+      "country": "Japan",
+      "description": "Frank Sinatra being greeted by hundreds of fans upon arriving at Tokyo International Airport. Sinatra was in Japan to perform three concerts to raise money for underprivileged children.",
+      "license": "Associated Press / Alamy Stock Photo",
+      "location": {
+        "lat": 35.550551076642485,
+        "lng": 139.78917255003736
+      },
+      "lat": 35.550551076642485,
+      "lng": 139.78917255003736,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:09.419813+00:00",
+      "updatedAt": "2026-03-23T05:17:09.419813+00:00"
+    },
+    {
+      "id": 162,
+      "imageId": "288711fe-1a27-49d4-a1e7-a07c4cdebd78",
+      "imageUrl": "https://images.timeguessr.com/6b8f1ce2-2643-46f0-8d56-cf4a02c697a3.jpeg",
+      "year": "1963",
+      "yearInt": 1963,
+      "decade": "1960s",
+      "country": "Finland",
+      "description": "A woman picking up the Friday edition of the Maaseudun Tulevaisuus newspaper in Vihti, Finland.",
+      "license": "Erkki Voutilainen, CC BY 4.0, via Wikimedia Commons",
+      "location": {
+        "lat": 60.407123950099475,
+        "lng": 24.33341809349739
+      },
+      "lat": 60.407123950099475,
+      "lng": 24.33341809349739,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:00.269942+00:00",
+      "updatedAt": "2026-03-23T05:17:00.269942+00:00"
+    },
+    {
+      "id": 158,
+      "imageId": "42dcb8a6-81eb-415f-90d9-1a6c4f3505ac",
+      "imageUrl": "https://images.timeguessr.com/2e73b79d-5d11-4986-95e6-cf5ea5a0329b.jpg",
+      "year": "1967",
+      "yearInt": 1967,
+      "decade": "1960s",
+      "country": "USA",
+      "description": "Cast members for 'Planet of the Apes' (1968 film) on the streets of LA.",
+      "license": "Submitted by Santiago S",
+      "location": {
+        "lat": 34.008807746662065,
+        "lng": -118.41225287394808
+      },
+      "lat": 34.008807746662065,
+      "lng": -118.41225287394808,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:16:55.967246+00:00",
+      "updatedAt": "2026-03-23T05:16:55.967246+00:00"
+    },
+    {
+      "id": 155,
+      "imageId": "31992720-8497-4dc1-87fc-160d112a0d76",
+      "imageUrl": "https://images.timeguessr.com/c100ce95-5060-4782-970e-137d0445ae2c.jpg",
+      "year": "1970",
+      "yearInt": 1970,
+      "decade": "1970s",
+      "country": "France",
+      "description": "French actress Jane Birkin buying magazines from a newsstand in Paris.",
+      "license": "Trinity Mirror / Mirrorpix / Alamy Stock Photo",
+      "location": {
+        "lat": 48.871793784739715,
+        "lng": 2.3006434457598948
+      },
+      "lat": 48.871793784739715,
+      "lng": 2.3006434457598948,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:16:55.965558+00:00",
+      "updatedAt": "2026-03-23T05:16:55.965558+00:00"
+    },
+    {
+      "id": 28,
+      "imageId": "675910ac-dc9d-4878-9af9-ae9e1c9922d5",
+      "imageUrl": "https://images.timeguessr.com/d0416a19-7361-4caa-8307-15623925a24d.jpg",
+      "year": "1971",
+      "yearInt": 1971,
+      "decade": "1970s",
+      "country": "Indonesia",
+      "description": "Queen Juliana of the Netherlands being welcomed to Bali during a state visit to Indonesia during the early 70s.",
+      "license": "Joost Evers / Anefo, CC0, via Wikimedia Commons",
+      "location": {
+        "lat": -8.60636992202535,
+        "lng": 115.25511886739322
+      },
+      "lat": -8.60636992202535,
+      "lng": 115.25511886739322,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T04:59:11.461380+00:00",
+      "updatedAt": "2026-03-23T05:17:00.269014+00:00"
+    },
+    {
+      "id": 157,
+      "imageId": "25c3a041-bc12-415c-af04-0a1a34a96859",
+      "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2019-01/10/8/asset/buzzfeed-prod-web-02/sub-buzz-10348-1547128326-1.jpg?downsize=1600:*&output-format=auto&output-quality=auto",
+      "year": "1971",
+      "yearInt": 1971,
+      "decade": "1970s",
+      "country": "UK",
+      "description": " Pedestrians walk past soldiers crouched on a street corner during The Troubles.",
+      "license": "Submitted by monneeyoo",
+      "location": {
+        "lat": 54.59350167062976,
+        "lng": -5.925046781125847
+      },
+      "lat": 54.59350167062976,
+      "lng": -5.925046781125847,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:16:55.966750+00:00",
+      "updatedAt": "2026-03-23T05:16:55.966750+00:00"
+    },
+    {
+      "id": 175,
+      "imageId": "f0246484-31f6-4f66-8db1-f14fc5af10ff",
+      "imageUrl": "https://images.timeguessr.com/39b2d2d1-9b30-4a8a-93c9-b23d110c1ff9.jpg",
+      "year": "1976",
+      "yearInt": 1976,
+      "decade": "1970s",
+      "country": "UK",
+      "description": "Dancing on the streets of Cardiff during an anti-Nazi demonstration.",
+      "license": "Robin Weaver / Alamy Stock Photo",
+      "location": {
+        "lat": 51.48323042375397,
+        "lng": -3.1789788574342386
+      },
+      "lat": 51.48323042375397,
+      "lng": -3.1789788574342386,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:13.736068+00:00",
+      "updatedAt": "2026-03-23T05:17:13.736068+00:00"
+    },
+    {
+      "id": 178,
+      "imageId": "7ef3a872-2ddf-4d91-ad69-47bbae704644",
+      "imageUrl": "https://images.timeguessr.com/ffcbbdd5-779d-4685-afd3-e9f499d650f3.jpg",
+      "year": "1985",
+      "yearInt": 1985,
+      "decade": "1980s",
+      "country": "Italy",
+      "description": "An evening at The Colosseum in Rome.",
+      "license": "Submitted by SJM_1974",
+      "location": {
+        "lat": 41.89079337144222,
+        "lng": 12.495561604144152
+      },
+      "lat": 41.89079337144222,
+      "lng": 12.495561604144152,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:13.736441+00:00",
+      "updatedAt": "2026-03-23T05:17:13.736441+00:00"
+    },
+    {
+      "id": 156,
+      "imageId": "60a20bab-34de-428a-b8c1-93acad3fca10",
+      "imageUrl": "https://images.timeguessr.com/c3fe92f9-ccf3-4474-9db4-e41e33426695.jpg",
+      "year": "1989",
+      "yearInt": 1989,
+      "decade": "1980s",
+      "country": "USA",
+      "description": "Donald Trump holding a ribbon at Logan International Airport, Boston for the opening of the Trump Shuttle. The airline had it\u2019s first flight in 1989, flying from Washington to New York and then on to Boston.",
+      "license": "Associated Press / Alamy Stock Photo",
+      "location": {
+        "lat": 42.36437403053413,
+        "lng": -71.02173872726675
+      },
+      "lat": 42.36437403053413,
+      "lng": -71.02173872726675,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:16:55.966694+00:00",
+      "updatedAt": "2026-03-23T05:16:55.966694+00:00"
+    },
+    {
+      "id": 168,
+      "imageId": "326721b8-d58e-44d1-a251-109e06f9abdc",
+      "imageUrl": "https://images.timeguessr.com/34c9a9b1-92ba-44c9-98b3-4592c147e79b.jpg",
+      "year": "1994",
+      "yearInt": 1994,
+      "decade": "1990s",
+      "country": "Spain",
+      "description": "The Castropol trawler celebrating their victory after winning the 'Bandera Princesa de Asturias' regatta.",
+      "license": "Teson99, Public domain, via Wikimedia Commons",
+      "location": {
+        "lat": 43.52998449935643,
+        "lng": -7.023146852349154
+      },
+      "lat": 43.52998449935643,
+      "lng": -7.023146852349154,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:04.579205+00:00",
+      "updatedAt": "2026-03-23T05:17:04.579205+00:00"
+    },
+    {
+      "id": 164,
+      "imageId": "b4a8b519-56d0-4e42-bd73-dcff954f5475",
+      "imageUrl": "https://images.timeguessr.com/6ad07010-7a53-486b-b77c-69d91062471e.jpg",
+      "year": "1998",
+      "yearInt": 1998,
+      "decade": "1990s",
+      "country": "Indonesia",
+      "description": "An anti-government protest at Yarsi University in Jakarta.",
+      "license": "Associated Press / Alamy Stock Photo",
+      "location": {
+        "lat": -6.1693744626751785,
+        "lng": 106.8690950321388
+      },
+      "lat": -6.1693744626751785,
+      "lng": 106.8690950321388,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:04.578440+00:00",
+      "updatedAt": "2026-03-23T05:17:04.578440+00:00"
+    },
+    {
+      "id": 167,
+      "imageId": "dcd2eba9-4ac7-4338-81eb-691b9bb58bfb",
+      "imageUrl": "https://images.timeguessr.com/735db94d-d6db-455c-8976-f80b84884a5c.jpeg",
+      "year": "2012",
+      "yearInt": 2012,
+      "decade": "2010s",
+      "country": "UK",
+      "description": "A view over the departures concourse at London King's Cross shortly after it opened.",
+      "license": "Colin, via  Wikimedia Commons",
+      "location": {
+        "lat": 51.531864,
+        "lng": -0.124306
+      },
+      "lat": 51.531864,
+      "lng": -0.124306,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:04.579171+00:00",
+      "updatedAt": "2026-03-23T05:17:04.579171+00:00"
+    },
+    {
+      "id": 166,
+      "imageId": "c90dac98-790e-44fa-ac68-edabbe4b26ec",
+      "imageUrl": "https://images.timeguessr.com/fb4dc2af-0363-44c7-a910-258462a0ff11.jpg",
+      "year": "2012",
+      "yearInt": 2012,
+      "decade": "2010s",
+      "country": "Ukraine",
+      "description": "Crowds watching the first match of the Euro 2012 Championship between Poland and Greece in Kyiv, Ukraine. The match ended in a 1-1 draw.",
+      "license": "Associated Press / Alamy Stock Photo",
+      "location": {
+        "lat": 50.44611329099586,
+        "lng": 30.52148276426791
+      },
+      "lat": 50.44611329099586,
+      "lng": 30.52148276426791,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:04.578937+00:00",
+      "updatedAt": "2026-03-23T05:17:04.578937+00:00"
+    },
+    {
+      "id": 171,
+      "imageId": "d7a11380-a3a1-4d31-a0dd-d5269001cd97",
+      "imageUrl": "https://images.timeguessr.com/645b5c3a-dc33-4938-85e5-6271ae29e60f.jpg",
+      "year": "2018",
+      "yearInt": 2018,
+      "decade": "2010s",
+      "country": "UAE",
+      "description": "Kids playing with fire hoses at KidZania Dubai, an interactive city made for children.",
+      "license": "Iuliia Mashkova / Alamy Stock Photo",
+      "location": {
+        "lat": 25.195104468060723,
+        "lng": 55.28003307388129
+      },
+      "lat": 25.195104468060723,
+      "lng": 55.28003307388129,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:09.417059+00:00",
+      "updatedAt": "2026-03-23T05:17:09.417059+00:00"
+    },
+    {
+      "id": 170,
+      "imageId": "2710f1cf-647c-41c9-97a3-6c3181a004f3",
+      "imageUrl": "https://images.timeguessr.com/5571a6fd-ec71-41fe-b99d-0b96bb44f840.webp",
+      "year": "2025",
+      "yearInt": 2025,
+      "decade": "2020s",
+      "country": "France",
+      "description": "French President Emmanuel Macron inside the bell tower of the Notre-Dame in Paris during the official reopening of the cathedral's towers, 6 years after devastating fire.",
+      "license": "Abaca Press / Alamy Stock Photo",
+      "location": {
+        "lat": 48.85312885842684,
+        "lng": 2.3491407984245374
+      },
+      "lat": 48.85312885842684,
+      "lng": 2.3491407984245374,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:17:09.415734+00:00",
+      "updatedAt": "2026-03-23T05:17:09.415734+00:00"
+    },
+    {
+      "id": 159,
+      "imageId": "e4f33d1d-38e1-46ec-be68-6fbc1a090fb6",
+      "imageUrl": "https://images.timeguessr.com/da8ce33a-221b-4a32-b4b4-27e0767894a2.webp",
+      "year": "2025",
+      "yearInt": 2025,
+      "decade": "2020s",
+      "country": "USA",
+      "description": "A Tesla driver shrugging while passing crowds protesting against Tesla CEO and Senior Advisor to the President Elon Musk.",
+      "license": "Associated Press / Alamy Stock Photo",
+      "location": {
+        "lat": 37.784822114094965,
+        "lng": -122.42142661033934
+      },
+      "lat": 37.784822114094965,
+      "lng": -122.42142661033934,
+      "streetView": "",
+      "sourceUrl": "https://timeguessr.com/game-settings",
+      "createdAt": "2026-03-23T05:16:55.967347+00:00",
+      "updatedAt": "2026-03-23T05:16:55.967347+00:00"
+    }
+  ]
+}
