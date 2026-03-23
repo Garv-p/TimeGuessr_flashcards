@@ -1,6 +1,25 @@
 # tg_flashcards
 
-Short-term TimeGuessr card collector for building a local flashcard dataset quickly.
+TimeGuessr flashcards with a Next.js frontend for Vercel deployment, plus Python collection/export scripts for building the dataset.
+
+## Frontend
+
+The app is now a standard Next.js project using the App Router. Vercel should detect it automatically.
+
+### Local frontend setup
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000`.
+
+### Deploy on Vercel
+
+1. Import the GitHub repo into Vercel.
+2. Keep the detected framework as `Next.js`.
+3. Deploy with the default build settings.
 
 ## What it does
 
@@ -15,6 +34,8 @@ Short-term TimeGuessr card collector for building a local flashcard dataset quic
 
 - `collector.py`: visits TimeGuessr pages and saves cards into SQLite
 - `export_csv.py`: exports `cards.db` into flashcard-friendly CSV files
+- `app/`: Next.js frontend
+- `data/cards.json`: static dataset rendered by the frontend
 
 ## Setup
 

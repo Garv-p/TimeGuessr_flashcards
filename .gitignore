@@ -5,6 +5,9 @@ __pycache__/
 .DS_Store
 .venv/
 venv/
+.next/
+node_modules/
+out/
 cards.db
 timeguessr_rounds.csv
 timeguessr_anki.csv
